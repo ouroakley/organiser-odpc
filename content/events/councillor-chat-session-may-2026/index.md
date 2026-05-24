@@ -6,7 +6,7 @@ eventDates:
   - start: 2026-05-12T13:00:00
     end: 2026-05-12T14:00:00
 venues:
-  - jolly-ollys-coffee-shop
+  - jolly-ollys
 organisers:
   - odpc
 params:
